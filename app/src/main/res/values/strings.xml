@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App 13</string>
+
+    <string name="header">Hello world</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txt2">Fragment Text</string>
+    <string name="btn1">Fragmen Button</string>
+</resources>
